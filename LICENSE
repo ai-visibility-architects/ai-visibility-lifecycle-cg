@@ -1,5 +1,6 @@
-Here is the exact text to paste — start copying from the # symbol:
+Here's the clean markdown version:
 
+```markdown
 # W3C Software and Document Notice and License
 
 This work is being provided by the copyright holders under the following license.
@@ -21,3 +22,6 @@ THIS WORK IS PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR 
 COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENT.
 
 The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the work without specific, written prior permission. Title to copyright in this work will at all times remain with copyright holders.
+```
+
+Do you want this saved as a `LICENSE.md` file for the repo?
