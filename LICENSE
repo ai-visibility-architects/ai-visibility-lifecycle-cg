@@ -1,8 +1,6 @@
-CONTRIBUTING.md is in — you can see it in the file list and the "Contributing" tab has appeared next to README.
+The LICENSE file contains my instructions to you rather than the actual license text. It picked up the wrong content. 
 
-Now add the LICENSE file. Click **Add file → Create new file**, name it `LICENSE`, and paste this:
-
----
+Click the edit (pencil) icon, select all the content, delete it, and paste this clean version:
 
 ```
 W3C SOFTWARE AND DOCUMENT NOTICE AND LICENSE
@@ -17,7 +15,7 @@ Permission to copy, modify, and distribute this work, with or without modificati
 
 - The full text of this NOTICE in a location viewable to users of the redistributed or derivative work.
 - Any pre-existing intellectual property disclaimers, notices, or terms and conditions. If none exist, the W3C Software and Document Short Notice should be included.
-- Notice of any changes or modifications, through a copyright statement on the new code or document such as "Copyright © [$date-of-modification] World Wide Web Consortium, https://www.w3.org/. W3C liability, trademark and document use rules apply."
+- Notice of any changes or modifications, through a copyright statement on the new code or document such as "Copyright © [date-of-modification] World Wide Web Consortium, https://www.w3.org/. W3C liability, trademark and document use rules apply."
 
 Disclaimers
 
@@ -27,3 +25,5 @@ COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQ
 
 The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the work without specific, written prior permission. Title to copyright in this work will at all times remain with copyright holders.
 ```
+
+Then commit to main.
