@@ -10,8 +10,9 @@ The AI Visibility Lifecycle Framework is an 11-stage model describing how web co
 
 - **W3C Group Home Page:** https://www.w3.org/community/ai-web-visibility/
 - **Mailing List:** https://lists.w3.org/Archives/Public/public-ai-web-visibility/
-- **IETF Internet-Draft:** https://datatracker.ietf.org/doc/draft-lynch-ai-visibility-lifecycle/
+- **IETF Internet-Draft:** https://datatracker.ietf.org/doc/draft-lynch-ai-visibility-lifecycle-02/
 - **Framework (Zenodo):** https://doi.org/10.5281/zenodo.18460710
+- **AIVA Terminology Index v1.0 (Zenodo):** https://doi.org/10.5281/zenodo.19505331
 - **Framework Developer:** [Bernard Lynch](https://orcid.org/0009-0007-6170-7818) — AI Visibility Architecture Group Limited
 
 ## Repository Contents
