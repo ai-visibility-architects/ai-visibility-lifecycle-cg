@@ -4,8 +4,8 @@
 
 | Field | Detail |
 |---|---|
-| Charter Version | 1.0 |
-| Date | 6 April 2026 |
+| Charter Version | 1.1 |
+| Date | 13 April 2026 |
 | Group Home Page | https://www.w3.org/community/ai-web-visibility/ |
 | Mailing List | https://lists.w3.org/Archives/Public/public-ai-web-visibility/ |
 | GitHub Repository | https://github.com/ai-visibility-architects/ai-visibility-lifecycle-cg |
@@ -27,7 +27,7 @@ The group is a genuine collaborative forum. While the initial framework is singl
 
 AI systems now mediate a significant and growing share of how people discover web content. Search engines, conversational AI assistants, recommendation systems, and autonomous agents all crawl, evaluate, and surface websites through processes that are poorly understood and largely undocumented. There is no shared vocabulary for describing these processes and no common framework for practitioners to evaluate whether their websites are being discovered, understood, trusted, or surfaced.
 
-The 11-Stage AI Visibility Lifecycle, published by Bernard Lynch in January 2026, is the first structured lifecycle framework specifically dedicated to describing end-to-end AI-mediated web visibility, from initial crawl through trust establishment to human surfacing. The framework identifies three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11). It is registered as an IETF Internet-Draft (draft-lynch-ai-visibility-lifecycle-02) and deposited on Zenodo under CC BY-NC-ND 4.0.
+The 11-Stage AI Visibility Lifecycle, published by Bernard Lynch in January 2026, is the first structured lifecycle framework specifically dedicated to describing end-to-end AI-mediated web visibility, from initial crawl through trust establishment to human surfacing. The framework identifies three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11). It is deposited on Zenodo under CC BY-NC-ND 4.0.
 
 This Community Group exists to bring collaborative scrutiny to this emerging field. The framework provides a shared starting vocabulary; the group's participants will determine whether that vocabulary holds, how it should evolve, and what additional work is needed.
 
@@ -70,11 +70,7 @@ The group may explore whether specific technical artefacts emerging from its wor
 
 ### 3.2 Community Group Reports
 
-The group intends to publish the following Community Group Reports:
-
-- **AI Visibility Lifecycle Framework — Community Group Report:** A CG Report mirroring the canonical 11-Stage AI Visibility Lifecycle framework published on Zenodo (DOI: 10.5281/zenodo.18460710). This report is observational and defines no conformance requirements. The canonical source remains the Zenodo deposit under CC BY-NC-ND 4.0.
-
-The group may produce additional Community Group Reports within the scope of this charter, including use cases, measurement methodologies, best practice guides, or white papers.
+The group may produce Community Group Reports within the scope of this charter, including shared vocabulary documents, use cases, measurement methodologies, best practice guides, or white papers.
 
 ### 3.3 Test Suites and Other Software
 
@@ -89,7 +85,6 @@ The group anticipates interaction with the following W3C groups and external bod
 | Group / Organisation | Relationship |
 |---|---|
 | AI Content Disclosure CG (W3C) | Complementary scope: disclosure addresses what content IS; visibility addresses how content is FOUND by AI systems. |
-| IETF | The AI Visibility Lifecycle is registered as IETF Internet-Draft (draft-lynch-ai-visibility-lifecycle-02). |
 
 ---
 
@@ -138,10 +133,6 @@ All GitHub repositories attached to the Community Group must contain a copy of t
 ## 9. Intellectual Property and Licensing Note
 
 The 11-Stage AI Visibility Lifecycle framework is published on Zenodo under CC BY-NC-ND 4.0. The canonical version of the framework remains the Zenodo deposit. The W3C CLA governs only new material created collaboratively within this Community Group. The group may develop complementary work, extensions, or alternative models as separate Community Group Reports.
-
-Any Community Group Report that mirrors the Zenodo publication will include the following notice:
-
-> *This document is NOT the canonical source. The authoritative reference is the Zenodo deposit. In case of discrepancy, Zenodo governs.*
 
 This charter does not transfer any intellectual property rights in the canonical framework. The CLA applies only to contributions made within the W3C Community Group context.
 
@@ -192,12 +183,7 @@ The group can decide to work on a proposed amended charter, editing the text usi
 | Reference | URL / Detail |
 |---|---|
 | Canonical Framework (Zenodo) | Lynch, B. "The 11-Stage AI Visibility Lifecycle." DOI: 10.5281/zenodo.18460710 |
-| IETF Internet-Draft | https://datatracker.ietf.org/doc/draft-lynch-ai-visibility-lifecycle-02/ |
 | W3C CG Process | https://www.w3.org/community/about/process/ |
 | W3C CLA | https://www.w3.org/community/about/process/cla/ |
 | W3C Code of Ethics | https://www.w3.org/Consortium/cepc/ |
 | Group Home Page | https://www.w3.org/community/ai-web-visibility/ |
-
----
-
-*End of Charter*
