@@ -27,7 +27,7 @@ The group is a genuine collaborative forum. While the initial framework is singl
 
 AI systems now mediate a significant and growing share of how people discover web content. Search engines, conversational AI assistants, recommendation systems, and autonomous agents all crawl, evaluate, and surface websites through processes that are poorly understood and largely undocumented. There is no shared vocabulary for describing these processes and no common framework for practitioners to evaluate whether their websites are being discovered, understood, trusted, or surfaced.
 
-The 11-Stage AI Visibility Lifecycle, published by Bernard Lynch in January 2026, is the first structured lifecycle framework specifically dedicated to describing end-to-end AI-mediated web visibility, from initial crawl through trust establishment to human surfacing. The framework identifies three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11). It is registered as an IETF Internet-Draft (draft-lynch-ai-visibility-lifecycle) and deposited on Zenodo under CC BY-NC-ND 4.0.
+The 11-Stage AI Visibility Lifecycle, published by Bernard Lynch in January 2026, is the first structured lifecycle framework specifically dedicated to describing end-to-end AI-mediated web visibility, from initial crawl through trust establishment to human surfacing. The framework identifies three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11). It is registered as an IETF Internet-Draft (draft-lynch-ai-visibility-lifecycle-02) and deposited on Zenodo under CC BY-NC-ND 4.0.
 
 This Community Group exists to bring collaborative scrutiny to this emerging field. The framework provides a shared starting vocabulary; the group's participants will determine whether that vocabulary holds, how it should evolve, and what additional work is needed.
 
@@ -89,7 +89,7 @@ The group anticipates interaction with the following W3C groups and external bod
 | Group / Organisation | Relationship |
 |---|---|
 | AI Content Disclosure CG (W3C) | Complementary scope: disclosure addresses what content IS; visibility addresses how content is FOUND by AI systems. |
-| IETF | The AI Visibility Lifecycle is registered as IETF Internet-Draft (draft-lynch-ai-visibility-lifecycle). |
+| IETF | The AI Visibility Lifecycle is registered as IETF Internet-Draft (draft-lynch-ai-visibility-lifecycle-02). |
 
 ---
 
@@ -192,7 +192,7 @@ The group can decide to work on a proposed amended charter, editing the text usi
 | Reference | URL / Detail |
 |---|---|
 | Canonical Framework (Zenodo) | Lynch, B. "The 11-Stage AI Visibility Lifecycle." DOI: 10.5281/zenodo.18460710 |
-| IETF Internet-Draft | https://datatracker.ietf.org/doc/draft-lynch-ai-visibility-lifecycle/ |
+| IETF Internet-Draft | https://datatracker.ietf.org/doc/draft-lynch-ai-visibility-lifecycle-02/ |
 | W3C CG Process | https://www.w3.org/community/about/process/ |
 | W3C CLA | https://www.w3.org/community/about/process/cla/ |
 | W3C Code of Ethics | https://www.w3.org/Consortium/cepc/ |
