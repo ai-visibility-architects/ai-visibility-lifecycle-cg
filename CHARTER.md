@@ -27,7 +27,7 @@ AI systems now mediate a significant and growing share of how people discover we
 
 Existing published work in this area, including the 11-Stage AI Visibility Lifecycle and the AIVA Terminology Index v1.0, may inform the group's discussions as background material. Such prior work does not constitute a deliverable of this Community Group and does not constrain the group's decisions about its own outputs.
 
-This Community Group exists to bring collaborative scrutiny to this emerging field. The framework provides a shared starting vocabulary; the group's participants will determine whether that vocabulary holds, how it should evolve, and what additional work is needed.
+This Community Group exists to bring collaborative scrutiny to this emerging field. The group's participants will determine what vocabulary, frameworks, and outputs are needed.
 
 ---
 
@@ -58,7 +58,7 @@ The following topics are explicitly out of scope:
 
 ## 3. Deliverables
 
-### 3.1 Specifications
+### 3.1 Technical Deliverables
 
 The group may produce technical deliverables in the form of vocabulary documents, schemas, or measurement methodologies. All specifications produced by the group are subject to the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/process/cla/
 
