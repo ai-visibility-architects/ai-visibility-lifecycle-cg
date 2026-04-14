@@ -60,7 +60,7 @@ The following topics are explicitly out of scope:
 
 ### 3.1 Technical Deliverables
 
-The group may produce technical deliverables in the form of vocabulary documents, schemas, or measurement methodologies. All specifications produced by the group are subject to the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/process/cla/
+The group may produce technical deliverables in the form of vocabulary documents, schemas, or measurement methodologies. All such deliverables produced by the group are subject to the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/process/cla/
 
 The group may explore whether specific technical artefacts emerging from its work warrant progression toward standardisation in coordination with relevant W3C groups. Should that need arise, this charter will be amended through the charter amendment process defined below.
 
@@ -110,13 +110,13 @@ The [W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/
 
 ## 7. Work Limited to Charter Scope
 
-The group will not publish Specifications on topics outside the scope defined in Section 2 above. See below for how to modify the charter.
+The group will limit its work to the scope defined in Section 2 and the deliverables described in Section 3. See below for how to modify the charter.
 
 ---
 
 ## 8. Contribution Mechanics
 
-Substantive Contributions to Specifications can only be made by Community Group Participants who have agreed to the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/process/cla/).
+Substantive Contributions to group Deliverables can only be made by Community Group Participants who have agreed to the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/process/cla/).
 
 All Contributions are made on the group's public mailing list. Community Group participants agree to make all contributions in the GitHub repository the group is using for the particular document. This may be in the form of a pull request (preferred), by raising an issue, or by adding a comment to an existing issue.
 
