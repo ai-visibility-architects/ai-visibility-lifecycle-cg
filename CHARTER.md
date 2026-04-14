@@ -25,7 +25,7 @@ The group is a genuine collaborative forum. The group's direction, deliverables,
 
 AI systems now mediate a significant and growing share of how people discover web content. Search engines, conversational AI assistants, recommendation systems, and autonomous agents all crawl, evaluate, and surface websites through processes that are poorly understood and largely undocumented. There is no shared vocabulary for describing these processes and no common framework for practitioners to evaluate whether their websites are being discovered, understood, trusted, or surfaced.
 
-The 11-Stage AI Visibility Lifecycle, published by Bernard Lynch in January 2026, is the first structured lifecycle framework specifically dedicated to describing end-to-end AI-mediated web visibility, from initial crawl through trust establishment to human surfacing. The framework identifies three phases: AI Comprehension (Stages 1–5), Trust Establishment (Stages 6–8), and Human Visibility (Stages 9–11). It is deposited on Zenodo under CC BY-NC-ND 4.0. This framework and the AIVA Terminology Index v1.0 (DOI: 10.5281/zenodo.19505331) are offered as starting points for the group's discussions.
+Existing published work in this area, including the 11-Stage AI Visibility Lifecycle and the AIVA Terminology Index v1.0, may inform the group's discussions as background material. Such prior work does not constitute a deliverable of this Community Group and does not constrain the group's decisions about its own outputs.
 
 This Community Group exists to bring collaborative scrutiny to this emerging field. The framework provides a shared starting vocabulary; the group's participants will determine whether that vocabulary holds, how it should evolve, and what additional work is needed.
 
@@ -60,7 +60,7 @@ The following topics are explicitly out of scope:
 
 ### 3.1 Specifications
 
-The group may produce specifications in the form of vocabulary documents, schemas, or measurement methodologies. All specifications produced by the group are subject to the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/process/cla/
+The group may produce technical deliverables in the form of vocabulary documents, schemas, or measurement methodologies. All specifications produced by the group are subject to the W3C Community Contributor License Agreement (CLA): https://www.w3.org/community/about/process/cla/
 
 The group may explore whether specific technical artefacts emerging from its work warrant progression toward standardisation in coordination with relevant W3C groups. Should that need arise, this charter will be amended through the charter amendment process defined below.
 
